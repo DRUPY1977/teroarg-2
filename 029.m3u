@@ -7,7 +7,7 @@ http://186.125.218.139:13000/play/a05i/index.m3u8
 http://186.125.218.139:13000/play/a01o/index.m3u8
 #EXTINF:-1,A24 UDP
 http://186.125.218.139:13000/play/a0bt/index.m3u8
-#EXTINF:-1,AM Sports
+#EXTINF:-1,AM Sport
 http://186.125.218.139:13000/play/a01v/index.m3u8
 #EXTINF:-1,AMC
 http://186.125.218.139:13000/play/a01z/index.m3u8
